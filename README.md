@@ -1,0 +1,2 @@
+# coContagion
+tiny contagion simulator
